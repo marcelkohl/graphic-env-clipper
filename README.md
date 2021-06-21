@@ -15,7 +15,8 @@ With this core I was able not only to have a graphical interface on MS-DOS but a
 *Unfortunately I could only "revive" the core of the system from the backups, there is still missing the window editor that was part of that (like an IDE for drag-and-drop components), and some commercial software made over this platform. With some luck I will be able to find these files and share them one day.*
 
 **Standard DOS apps looked like this:**
-![Sample DOS app Clipper](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos.png?raw=true| width=100)
+
+![Sample DOS app Clipper](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos.png?raw=true?width=100)
 ![Sample DOS app Clipper 02](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos-2.png?raw=true)
 
 **Using this graphical environment it looks like this:**
