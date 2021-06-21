@@ -6,7 +6,7 @@
 # graphic-env-clipper
 Graphic environment implemented on Clipper language for old DOS Operational System.
 
-![Screenshot 01](https://github.com/marcelkohl/graphic-env-clipper/SAMPLES/blob/main/sample-graphics.png?raw=true)
+![Screenshot 01](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-1.png?raw=true)
 
 ## History Behind
 This code is the core that I've used on my 90's projects on MS-DOS on Clipper Language.
@@ -21,9 +21,8 @@ With this core I was able not only to have a graphical interface on MS-DOS but a
 
 **Using this graphical environment it looks like this:**
 
-![Sample DOS app Clipper](https://github.com/marcelkohl/graphic-env-clipper/SAMPLES/blob/main/sample-graphics-DOS-clipper-1.png?raw=true)
-![Sample DOS app Clipper](https://github.com/marcelkohl/graphic-env-clipper/SAMPLES/blob/main/sample-graphics-DOS-clipper-2.png?raw=true)
-![Sample DOS app Clipper](https://github.com/marcelkohl/graphic-env-clipper/SAMPLES/blob/main/sample-graphics-DOS-clipper-3.png?raw=true)
+![Graphics on Clipper DOS](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-2.png?raw=true)
+![Graphics on Clipper DOS 02](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-3.png?raw=true)
 
 ## Compiling and Running
 To run this app properly it is needed to have a MS-DOS compatible environment. Using FreeDOS does the job very well.
