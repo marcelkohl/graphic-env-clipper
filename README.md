@@ -16,13 +16,11 @@ With this core I was able not only to have a graphical interface on MS-DOS but a
 
 **Standard DOS apps looked like this:**
 
-<img alt="Sample DOS app Clipper" src="https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos.png?raw=true" width="350" height="auto">
-<img alt="Sample DOS app Clipper" src="https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos-2.png?raw=true" width="350" height="auto">
+<img alt="Sample DOS app Clipper" src="https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos.png?raw=true" width="450" height="auto"><img alt="Sample DOS app Clipper 2" src="https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-dos-2.png?raw=true" width="450" height="auto">
 
 **Using this graphical environment it looks like this:**
 
-![Graphics on Clipper DOS](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-2.png?raw=true)
-![Graphics on Clipper DOS 02](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-3.png?raw=true)
+<img alt="Graphics on Clipper DOS" src="https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-2.png?raw=true" width="450" height="auto"><img alt="Graphics on Clipper DOS" src="https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-3.png?raw=true" width="450" height="auto">
 
 ## Compiling and Running
 To run this app properly it is needed to have a MS-DOS compatible environment. Using FreeDOS does the job very well.
