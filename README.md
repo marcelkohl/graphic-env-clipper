@@ -6,7 +6,7 @@
 # Graphic Environment on Clipper Language
 Graphic environment implemented on Clipper language for old DOS Operational System.
 
-![Screenshot 01](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-1.png?raw=true)
+![Screenshot 01](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-animated.png?raw=true)
 
 ## History Behind
 This code is the core that I've used on my 90's projects on MS-DOS on Clipper Language.
