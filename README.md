@@ -3,7 +3,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-# graphic-env-clipper
+# Graphic Environment on Clipper Language
 Graphic environment implemented on Clipper language for old DOS Operational System.
 
 ![Screenshot 01](https://github.com/marcelkohl/graphic-env-clipper/blob/main/SAMPLES/sample-graphics-DOS-clipper-1.png?raw=true)
